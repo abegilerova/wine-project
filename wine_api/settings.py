@@ -14,7 +14,7 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-CORS_ORIGIN_WHITELIST = ('your-full-site-no-https-//.herokuapp.com')
+CORS_ORIGIN_WHITELIST = ('wine-app-aika.herokuapp.com')
 
 
 # Quick-start development settings - unsuitable for production
